@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">My_English_App</string>
+    <string name="textView_title">welcome to English self-study</string>
+    <string name="textView_intro"> 앱에서 사용할 본인만의 이름을 입력하세요.(영어 10단어 이하)</string>
+    <string name="textView_userName"> 사용할 이름입력:</string>
+    <string name="textView_userNameShow">이미 존재하는 UserName입니다.</string>
+    <string name="textView_gender">성별을 선택해주세요!</string>
+    <string name="checkbox1">여성</string>
+    <string name="checkbox2">남성</string>
+    <string name="textView_whyStudy">왜 이 사이트를 찾으셨나요?</string>
+    <string name="radioButton1">심심해서 배워볼려고</string>
+    <string name="radioButton2">말하기를 잘하고 싶어서</string>
+    <string name="radioButton3">영어문장의 구조를 알고싶어서</string>
+    <string name="textView_switch">소리모드를 선택해주세요.</string>
+    <string name="textView_switchButton">무음</string>
+    <string name="Button_showIntro">입력을 완료하고 다음 페이지로 넘어갑니다.</string>
+
+
+    <string name="submit">submit</string>
+    <string name="showName">ID님 환영합니다.</string>
+
 </resources>
